@@ -1,2 +1,2 @@
-This is a project created as Movie Search Application named NguyenMovie
-Using Next.js and Tailwind CSS
+This is a Web Project as Movie Search Application with the name NguyenMovie
+Technical: Next.js and Tailwind CSS
