@@ -1,0 +1,15 @@
+run in terminal
+====
+npx create-next-app@latest
+> project <name/>
+> typescript No
+> eslint Yes 
+> tailwind css yes 
+>  'src' directory yes 
+> app router yes 
+> import alias no
+==============
+cd movie-app
+npm run dev 
+
+
