@@ -1,3 +1,11 @@
+how to push project in github 
+===
+git init
+git add .
+git commit -am "initial commit"
+git remote add origin https://github.com/nickldn2211/MovieAppProject.git (the respository link created in github)
+git push origin master
+
 run in terminal
 ====
 npx create-next-app@latest
